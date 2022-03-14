@@ -15,7 +15,7 @@ Unity, C#, AR Foundation with AR Core (Android)
 - The application will detect a plane surface by shooting rays from your camera lens. 
 - Once the plane surface is detected, click on the plane.
 - A 3D animated dancing character will appear where you just clicked. 
-- You can now change the postion of the character by clicking whereever you want it to go.
+- You can now change the postion of the character by clicking wherever you want it to go.
 - Once you are satisfied with the character and camera placement, you are ready to dance along with your 3D character!
 
 You can screenrecord this, add music and even share it on social media! 
